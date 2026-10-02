@@ -1,0 +1,11 @@
+{
+  "name": "graph",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "dependencies": {
+    "madge": "^8.0.0",
+    "typescript": "^5.9.3"
+  }
+}
