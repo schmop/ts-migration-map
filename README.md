@@ -8,6 +8,8 @@ The colors of the file-nodes suggest the readyness-state for the migration.
 - <span style="color:orange">Orange</span>: The file is JS and ready to be migrated. It does not depend on any files written in JS.
 - <span style="color:red">Red</span>: The file is JS and cannot be migrated yet, it depends on JS.
 
+This project is powered by [Madge](https://github.com/pahen/madge).
+
 ## Installation
 
 ```
